@@ -1,0 +1,6 @@
+{
+  "name": "ShipStack",
+  "description": "Unified Logistics & Shipping Aggregator console for multi-carrier rate orchestration, label generation, real-time tracking streams, and automated fulfillment simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
